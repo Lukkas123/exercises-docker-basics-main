@@ -5,4 +5,3 @@ do
   read website; echo "Searching.."
   sleep 1; curl http://$website
 done
-FROM ubuntu:24.04
